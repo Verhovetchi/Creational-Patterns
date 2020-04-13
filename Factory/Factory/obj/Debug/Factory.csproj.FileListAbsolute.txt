@@ -1,0 +1,12 @@
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\bin\Debug\Factory.exe.config
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\bin\Debug\Factory.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\bin\Debug\Factory.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\obj\Debug\Factory.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Factory\Factory\obj\Debug\Factory.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\bin\Debug\Factory.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\bin\Debug\Factory.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\obj\Debug\Factory.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Creational Patterns\Factory\Factory\obj\Debug\Factory.pdb

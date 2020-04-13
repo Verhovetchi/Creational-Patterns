@@ -1,0 +1,12 @@
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\bin\Debug\Laboratorul-1.exe.config
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\bin\Debug\Laboratorul-1.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\bin\Debug\Laboratorul-1.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\obj\Debug\Laboratorul-1.csprojAssemblyReference.cache
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\obj\Debug\Laboratorul-1.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Laboratorul-1\Laboratorul-1\obj\Debug\Laboratorul-1.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\bin\Debug\Laboratorul-1.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\bin\Debug\Laboratorul-1.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\bin\Debug\Laboratorul-1.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\obj\Debug\Laboratorul-1.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\obj\Debug\Laboratorul-1.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Singleton\Laboratorul-1\obj\Debug\Laboratorul-1.pdb
